@@ -1,4 +1,4 @@
-### Hi there 👋
+## About me 
 
 <!--
 **raulmanzas/raulmanzas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Backend Engineer focused on Distributed Systems and Data Engineering. :octocat:
+
+Main languages:
+- Java
+- Kotlin
+- Python
+
+![github stats](https://github-readme-stats.vercel.app/api?username=raulmanzas&show_icons=true&theme=dark)
